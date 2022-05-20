@@ -1,0 +1,22 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiogh7/twitterBot.git"
+  },
+  "author": "sergiogh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergiogh7/twitterBot/issues"
+  },
+  "homepage": "https://github.com/sergiogh7/twitterBot#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
