@@ -3,5 +3,5 @@
 
 ### Hecho con NodeJs.
 
-Ejecutarlo en cmd:\n
+Ejecutarlo en cmd:
 >**npm node app.js**
